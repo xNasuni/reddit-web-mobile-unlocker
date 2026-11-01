@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Reddit Web Mobile Unlocker
 // @namespace    https://github.com/xNasuni/reddit-web-mobile-unlocker
-// @description  try to take over the world!
+// @description  Removing the Get the App Upsell
 // @version      1.0
 // @author       Mia @ github.com/xNasuni
 // @match        https://*.reddit.com/*
