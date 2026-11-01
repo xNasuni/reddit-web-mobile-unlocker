@@ -7,6 +7,7 @@
 // @match        https://*.reddit.com/*
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=reddit.com
 // @run-at       document-start
+// @license      MIT
 // @updateURL    https://github.com/xNasuni/reddit-web-mobile-unlocker/raw/main/script.user.js
 // @downloadURL  https://github.com/xNasuni/reddit-web-mobile-unlocker/raw/main/script.user.js
 // @supportURL   https://github.com/xNasuni/reddit-web-mobile-unlocker/issues
