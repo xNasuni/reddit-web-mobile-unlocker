@@ -6,7 +6,7 @@
 // @author       Mia @ github.com/xNasuni
 // @match        https://*.reddit.com/*
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=reddit.com
-// @run-at		   document-start
+// @run-at       document-start
 // @updateURL    https://github.com/xNasuni/reddit-web-mobile-unlocker/raw/main/script.user.js
 // @downloadURL  https://github.com/xNasuni/reddit-web-mobile-unlocker/raw/main/script.user.js
 // @supportURL   https://github.com/xNasuni/reddit-web-mobile-unlocker/issues
